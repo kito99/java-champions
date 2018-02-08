@@ -1,5 +1,7 @@
 = Java Champions
 
+This document contains a simple list of all of the Java Champions with their twitter handle, country and the year they joined. For more information about each champion, see the https://community.oracle.com/docs/DOC-925803[Oracle Java Champoins] list. For more information about Java Champions in general, see https://en.wikipedia.org/wiki/Java_Champions[Wikipedia] or the https://community.oracle.com/community/java/java-champions[Oracle Java Champions community site].
+
 [%header]
 |===
 | |Name |Twitter |Country |Year
